@@ -1009,7 +1009,7 @@ F 6 "81-BLM18EG221SN1D" V 2825 7850 60  0001 C CNN "Mouser"
 	1    0    0    -1  
 $EndComp
 Text Notes 2975 7875 0    60   ~ 0
-Ferrite bead, 	1 kOhm @ 100MHz
+Ferrite bead, 220 Ohm @ 100MHz
 $Comp
 L CONN_01X03 J7
 U 1 1 595E6153
