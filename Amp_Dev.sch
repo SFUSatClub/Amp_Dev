@@ -855,8 +855,8 @@ U 1 1 595C934C
 P 3275 5750
 F 0 "U3" H 3275 5900 50  0000 L CNN
 F 1 "LMV358" H 3275 5600 50  0000 L CNN
-F 2 "" H 3175 5800 50  0001 C CNN
-F 3 "" H 3275 5900 50  0001 C CNN
+F 2 "SFUSat:TSSOP-8_4.4x3mm_Pitch0.65mm" H 3175 5800 50  0001 C CNN
+F 3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/b9/d8/3b/8f/a1/8f/46/01/CD00079372.pdf/files/CD00079372.pdf/jcr:content/translations/en.CD00079372.pdf" H 3275 5900 50  0001 C CNN
 	1    3275 5750
 	-1   0    0    1   
 $EndComp
