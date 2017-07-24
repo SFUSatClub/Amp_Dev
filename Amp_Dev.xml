@@ -1,0 +1,1981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>E:\Documents\Various Documents\School\SFU Satellite Club\KiCAD\Amp_Dev\Amp_Dev.sch</source>
+    <date>2017-07-23 22:32:31 PM</date>
+    <tool>Eeschema 4.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Amp_Dev.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="R9">
+      <value>100</value>
+      <footprint>SFUSat:R_0402</footprint>
+      <fields>
+        <field name="Part Number">RC0402FR-07100RL</field>
+        <field name="Digi-Key">311-100LRCT-ND</field>
+        <field name="Mouser">603-RC0402FR-07100RL</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595B5E4D</tstamp>
+    </comp>
+    <comp ref="C25">
+      <value>100pF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GRM1555C1H101JA01D</field>
+        <field name="Digi-Key">490-5922-1-ND</field>
+        <field name="Mouser">81-GRM1555C1H101JA1D</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595B6142</tstamp>
+    </comp>
+    <comp ref="L4">
+      <value>24nH</value>
+      <footprint>SFUSat:L_0402</footprint>
+      <fields>
+        <field name="Part Number">0402CS-24NXGLW</field>
+        <field name="Digi-Key">N/A</field>
+        <field name="Mouser">994-0402CS-24NXGLW</field>
+      </fields>
+      <libsource lib="device" part="L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595B6408</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>0.1uF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GRM155R71C104KA88D</field>
+        <field name="Digi-Key">490-3261-1-ND</field>
+        <field name="Mouser">81-GRM155R71C104KA88</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595B69A0</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>390pF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GRM1555C1H391JA01J</field>
+        <field name="Digi-Key">490-6236-1-ND</field>
+        <field name="Mouser">81-GRM1555C1H391JA1J</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595B7218</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>56pF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GRM1555C1H560JA01D</field>
+        <field name="Digi-Key">490-1288-1-ND</field>
+        <field name="Mouser">81-GRM1555C1H560JA1D</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595B7D71</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>0.01uF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GRM155R71E103KA01D</field>
+        <field name="Digi-Key">490-1312-1-ND</field>
+        <field name="Mouser">81-GRM36X103K25</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595B7D7F</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>1210</value>
+      <footprint>SFUSat:R_0402</footprint>
+      <fields>
+        <field name="Part Number">RC0402FR-071K21L</field>
+        <field name="Digi-Key">311-1.21KLRCT-ND</field>
+        <field name="Mouser">603-RC0402FR-071K21L</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595B8134</tstamp>
+    </comp>
+    <comp ref="J10">
+      <value>SMA</value>
+      <footprint>SFUSat:SMA-Vert-TH</footprint>
+      <fields>
+        <field name="Part Number">5-1814832-1</field>
+        <field name="Digi-Key">A97594-ND</field>
+        <field name="Mouser">571-5-1814832-1</field>
+      </fields>
+      <libsource lib="SFUSat" part="SMA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595BA566</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>100pF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GRM1555C1H101JA01D</field>
+        <field name="Digi-Key">490-5922-1-ND</field>
+        <field name="Mouser">81-GRM1555C1H101JA1D</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595BABBE</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>MML09211H</value>
+      <footprint>SFUSat:8-VFDFN</footprint>
+      <fields>
+        <field name="Part Number">MML09211HT1</field>
+        <field name="Digi-Key">MML09211HT1CT-ND</field>
+        <field name="Mouser">841-MML09211HT1</field>
+      </fields>
+      <libsource lib="SFUSat" part="MML09211H"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595B48F1</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>0.01uF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GRM155R71E103KA01D</field>
+        <field name="Digi-Key">490-1312-1-ND</field>
+        <field name="Mouser">81-GRM36X103K25</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595BC0B7</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>390pF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GRM1555C1H391JA01J</field>
+        <field name="Digi-Key">490-6236-1-ND</field>
+        <field name="Mouser">81-GRM1555C1H391JA1J</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595BC0C3</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>SMA</value>
+      <footprint>SFUSat:SMA-Vert-TH</footprint>
+      <fields>
+        <field name="Part Number">5-1814832-1</field>
+        <field name="Digi-Key">A97594-ND</field>
+        <field name="Mouser">571-5-1814832-1</field>
+      </fields>
+      <libsource lib="SFUSat" part="SMA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595BD641</tstamp>
+    </comp>
+    <comp ref="L3">
+      <value>4.3nH</value>
+      <footprint>SFUSat:L_0402</footprint>
+      <fields>
+        <field name="Part Number">0402CS-4N3XGLW</field>
+        <field name="Digi-Key">N/A</field>
+        <field name="Mouser">994-0402CS-4N3XGLW</field>
+      </fields>
+      <libsource lib="device" part="L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595BF2FB</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>RF6886</value>
+      <footprint>SFUSat:QFN-24</footprint>
+      <fields>
+        <field name="Part Number">RF6886TR13</field>
+        <field name="Digi-Key">689-1091-1-ND</field>
+        <field name="Mouser">772-RF6886</field>
+      </fields>
+      <libsource lib="SFUSat" part="RF6886"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595C6621</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>DNP</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595C68A2</tstamp>
+    </comp>
+    <comp ref="C22">
+      <value>10pF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GJM1555C1H100JB01D</field>
+        <field name="Digi-Key">490-3113-1-ND</field>
+        <field name="Mouser">81-GJM1555C1H100JB01</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595C691F</tstamp>
+    </comp>
+    <comp ref="C24">
+      <value>27pF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GJM1555C1H270JB01D</field>
+        <field name="Digi-Key">N/A</field>
+        <field name="Mouser">81-GJM1555C1H270JB1D</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595C695C</tstamp>
+    </comp>
+    <comp ref="L6">
+      <value>L</value>
+      <footprint>SFUSat:L_0603</footprint>
+      <libsource lib="device" part="L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595C6AAE</tstamp>
+    </comp>
+    <comp ref="C28">
+      <value>1.2pF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GJM1555C1H1R2BB01D</field>
+        <field name="Digi-Key">490-8085-1-ND</field>
+        <field name="Mouser">81-GJM1555C1H1R2BB01</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595C6E11</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>2.2uF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">JMK105BJ225MVHF</field>
+        <field name="Digi-Key">587-3710-1-ND</field>
+        <field name="Mouser">963-JMK105BJ225MVHF</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595C7664</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>220R</value>
+      <footprint>SFUSat:R_0402</footprint>
+      <fields>
+        <field name="Part Number">RMC1/16S-221JTH</field>
+        <field name="Digi-Key">N/A</field>
+        <field name="Mouser">791-RMC1/16S-221JTH</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595CCC93</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>SFUSat:CP_Tantalum_Case-B_EIA-1411-21_Reflow</footprint>
+      <fields>
+        <field name="Part Number">TAJB106K016R</field>
+        <field name="Digi-Key">478-1673-1-ND</field>
+        <field name="Mouser">581-TAJB106K016</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595CCD73</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>220pF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GRM1555C1H221JA01E</field>
+        <field name="Digi-Key">490-1293-1-ND</field>
+        <field name="Mouser">81-GRM1555C1H221JA01</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595CE4E9</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>1uF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GRM155R61A105KE15D</field>
+        <field name="Digi-Key">490-12701-1-ND</field>
+        <field name="Mouser">81-GRM155R61A105KE1D</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595CF24F</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>390R</value>
+      <footprint>SFUSat:R_0402</footprint>
+      <fields>
+        <field name="Part Number">RMC1/16S-391JTH</field>
+        <field name="Digi-Key">N/A</field>
+        <field name="Mouser">791-RMC1/16S-391JTH</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595CF8DF</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>LMV358</value>
+      <footprint>SFUSat:TSSOP-8_4.4x3mm_Pitch0.65mm</footprint>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/b9/d8/3b/8f/a1/8f/46/01/CD00079372.pdf/files/CD00079372.pdf/jcr:content/translations/en.CD00079372.pdf</datasheet>
+      <fields>
+        <field name="Part Number">LMV358IYDT</field>
+        <field name="Digi-Key">497-10524-1-ND</field>
+        <field name="Mouser">511-LMV358IYDT</field>
+      </fields>
+      <libsource lib="linear" part="OP275"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595C8FB8</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>1K</value>
+      <footprint>SFUSat:R_0402</footprint>
+      <fields>
+        <field name="Part Number">RC0402JR-071KL</field>
+        <field name="Digi-Key">311-1.0KJRCT-ND</field>
+        <field name="Mouser">603-RC0402JR-071KL</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595C9C0D</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>10K</value>
+      <footprint>SFUSat:R_0402</footprint>
+      <fields>
+        <field name="Part Number">RC0402JR-0710KL</field>
+        <field name="Digi-Key">311-10KJRCT-ND</field>
+        <field name="Mouser">603-RC0402JR-0710KL</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595C9E33</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>10K</value>
+      <footprint>SFUSat:R_0402</footprint>
+      <fields>
+        <field name="Part Number">RC0402JR-0710KL</field>
+        <field name="Digi-Key">311-10KJRCT-ND</field>
+        <field name="Mouser">603-RC0402JR-0710KL</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595C9EDA</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>10K</value>
+      <footprint>SFUSat:R_0402</footprint>
+      <fields>
+        <field name="Part Number">RC0402JR-0710KL</field>
+        <field name="Digi-Key">311-10KJRCT-ND</field>
+        <field name="Mouser">603-RC0402JR-0710KL</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595CA0ED</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>10K</value>
+      <footprint>SFUSat:R_0402</footprint>
+      <fields>
+        <field name="Part Number">RC0402JR-0710KL</field>
+        <field name="Digi-Key">311-10KJRCT-ND</field>
+        <field name="Mouser">603-RC0402JR-0710KL</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595CA186</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>0.1uF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">0402ZD104KAT2A</field>
+        <field name="Digi-Key">478-1129-1-ND</field>
+        <field name="Mouser">581-040210D104K</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595CAC34</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>CONN_01X03</value>
+      <footprint>SFUSat:Socket_Strip_Straight_1x03</footprint>
+      <fields>
+        <field name="Part Number">PRPC003SAAN-RC</field>
+        <field name="Digi-Key">S1011EC-03-ND</field>
+        <field name="Mouser">N/A</field>
+      </fields>
+      <libsource lib="conn" part="CONN_01X03"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595CFD7E</tstamp>
+    </comp>
+    <comp ref="RV1">
+      <value>POT</value>
+      <footprint>SFUSat:TC33_SMD</footprint>
+      <fields>
+        <field name="Part Number">TC33X-2-103E</field>
+        <field name="Digi-Key">TC33X-103ECT-ND</field>
+        <field name="Mouser">652-TC33X-2-103E</field>
+      </fields>
+      <libsource lib="device" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595DA17F</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>1K</value>
+      <footprint>SFUSat:R_0402</footprint>
+      <fields>
+        <field name="Part Number">RC0402JR-071KL</field>
+        <field name="Digi-Key">311-1.0KJRCT-ND</field>
+        <field name="Mouser">603-RC0402JR-071KL</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595DA264</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>0R05</value>
+      <footprint>SFUSat:C_0603</footprint>
+      <fields>
+        <field name="Part Number">BLM18EG221SN1D</field>
+        <field name="Digi-Key">490-3992-1-ND</field>
+        <field name="Mouser">81-BLM18EG221SN1D</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595E29E8</tstamp>
+    </comp>
+    <comp ref="J11">
+      <value>CONN_01X02</value>
+      <footprint>SFUSat:2x01In_Header_v2</footprint>
+      <fields>
+        <field name="Part Number">PRPC002SAAN-RC</field>
+        <field name="Digi-Key">S1011EC-02-ND</field>
+        <field name="Mouser">N/A</field>
+      </fields>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595E98D7</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>RT9183</value>
+      <footprint>SFUSat:TO-263-5Lead</footprint>
+      <fields>
+        <field name="Part Number">RT9183HGM5</field>
+        <field name="Digi-Key">1028-1183-1-ND</field>
+        <field name="Mouser">N/A</field>
+      </fields>
+      <libsource lib="SFUSat" part="RT9183"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595EB15A</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>1k</value>
+      <footprint>SFUSat:R_0402</footprint>
+      <fields>
+        <field name="Part Number">RC0402JR-071KL</field>
+        <field name="Digi-Key">311-1.0KJRCT-ND</field>
+        <field name="Mouser">603-RC0402JR-071KL</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595EB2F9</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>1k</value>
+      <footprint>SFUSat:R_0402</footprint>
+      <fields>
+        <field name="Part Number">RC0402JR-071KL</field>
+        <field name="Digi-Key">311-1.0KJRCT-ND</field>
+        <field name="Mouser">603-RC0402JR-071KL</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595EB8C4</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>287R</value>
+      <footprint>SFUSat:R_0402</footprint>
+      <fields>
+        <field name="Part Number">RC0402FR-07287RL</field>
+        <field name="Digi-Key">YAG3089CT-ND</field>
+        <field name="Mouser">603-RC0402FR-07287RL</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595EB96B</tstamp>
+    </comp>
+    <comp ref="C34">
+      <value>10uF</value>
+      <footprint>SFUSat:C_1210</footprint>
+      <fields>
+        <field name="Part Number">GRM32DR71E106KA12L</field>
+        <field name="Digi-Key">490-1867-1-ND</field>
+        <field name="Mouser">81-GRM32DR71E106KA12</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595EBCCA</tstamp>
+    </comp>
+    <comp ref="C33">
+      <value>0.1uF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">0402ZD104KAT2A</field>
+        <field name="Digi-Key">478-1129-1-ND</field>
+        <field name="Mouser">581-040210D104K</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595EBDEA</tstamp>
+    </comp>
+    <comp ref="C36">
+      <value>10uF</value>
+      <footprint>SFUSat:C_1210</footprint>
+      <fields>
+        <field name="Part Number">GRM32DR71E106KA12L</field>
+        <field name="Digi-Key">81-GRM32DR71E106KA12</field>
+        <field name="Mouser">581-040210D104K</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595EC4FF</tstamp>
+    </comp>
+    <comp ref="J17">
+      <value>TEST_1P</value>
+      <footprint>SFUSat:Measurement_Point_Round-SMD-Pad_Big</footprint>
+      <libsource lib="conn" part="TEST_1P"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595F301C</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>TEST_1P</value>
+      <footprint>SFUSat:Measurement_Point_Round-SMD-Pad_Big</footprint>
+      <libsource lib="conn" part="TEST_1P"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595F4101</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>TEST_1P</value>
+      <footprint>SFUSat:Measurement_Point_Round-SMD-Pad_Big</footprint>
+      <libsource lib="conn" part="TEST_1P"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595F41BC</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value>TEST_1P</value>
+      <footprint>SFUSat:Measurement_Point_Round-SMD-Pad_Big</footprint>
+      <libsource lib="conn" part="TEST_1P"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595F427B</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>TEST_1P</value>
+      <footprint>SFUSat:Measurement_Point_Round-SMD-Pad_Big</footprint>
+      <libsource lib="conn" part="TEST_1P"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595F4336</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>TEST_1P</value>
+      <footprint>SFUSat:Measurement_Point_Round-SMD-Pad_Big</footprint>
+      <libsource lib="conn" part="TEST_1P"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595F4741</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>PESD5Zx</value>
+      <footprint>SFUSat:PESD57zx</footprint>
+      <fields>
+        <field name="Part Number">PESD5Z3.3,115</field>
+        <field name="Digi-Key">1727-5814-1-ND</field>
+        <field name="Mouser">771-PESD5Z33115</field>
+      </fields>
+      <libsource lib="SFUSat" part="PESD5Zx"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595F85D8</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>PESD5Zx</value>
+      <footprint>SFUSat:PESD57zx</footprint>
+      <fields>
+        <field name="Part Number">PESD5Z3.3,115</field>
+        <field name="Digi-Key">1727-5814-1-ND</field>
+        <field name="Mouser">771-PESD5Z33115</field>
+      </fields>
+      <libsource lib="SFUSat" part="PESD5Zx"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595FA090</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>TLV702</value>
+      <footprint>SFUSat:SOT_23_5</footprint>
+      <fields>
+        <field name="Part Number">TLV70231DBVT</field>
+        <field name="Digi-Key">296-27894-1-ND</field>
+        <field name="Mouser">595-TLV70231DBVT</field>
+      </fields>
+      <libsource lib="SFUSat" part="TLV702"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59602179</tstamp>
+    </comp>
+    <comp ref="C35">
+      <value>1uF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GRM155R61A105KE15D</field>
+        <field name="Digi-Key">490-12701-1-ND</field>
+        <field name="Mouser">81-GRM155R61A105KE1D</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>596072D0</tstamp>
+    </comp>
+    <comp ref="C32">
+      <value>1uF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GRM155R61A105KE15D</field>
+        <field name="Digi-Key">490-12701-1-ND</field>
+        <field name="Mouser">81-GRM155R61A105KE1D</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59609958</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>1K</value>
+      <footprint>SFUSat:R_0402</footprint>
+      <fields>
+        <field name="Part Number">RC0402JR-071KL</field>
+        <field name="Digi-Key">311-1.0KJRCT-ND</field>
+        <field name="Mouser">603-RC0402JR-071KL</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59611765</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>PESD5Zx</value>
+      <footprint>SFUSat:PESD57zx</footprint>
+      <fields>
+        <field name="Part Number">PESD5Z3.3,115</field>
+        <field name="Digi-Key">1727-5814-1-ND</field>
+        <field name="Mouser">771-PESD5Z33115</field>
+      </fields>
+      <libsource lib="SFUSat" part="PESD5Zx"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595F4F1D</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>LTC2644</value>
+      <footprint>SFUSat:12-TSSOP</footprint>
+      <fields>
+        <field name="Part Number">LTC2644CMS-L8#PBF</field>
+        <field name="Digi-Key">LTC2644CMS-L8#PBF-ND</field>
+        <field name="Mouser">N/A</field>
+      </fields>
+      <libsource lib="SFUSat" part="LTC2644"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59638171</tstamp>
+    </comp>
+    <comp ref="C37">
+      <value>0.1uF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">0402ZD104KAT2A</field>
+        <field name="Digi-Key">478-1129-1-ND</field>
+        <field name="Mouser">581-040210D104K</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5964BC73</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>PESD5Zx</value>
+      <footprint>SFUSat:PESD57zx</footprint>
+      <fields>
+        <field name="Part Number">PESD5Z3.3,115</field>
+        <field name="Digi-Key">1727-5814-1-ND</field>
+        <field name="Mouser">771-PESD5Z33115</field>
+      </fields>
+      <libsource lib="SFUSat" part="PESD5Zx"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59652690</tstamp>
+    </comp>
+    <comp ref="C31">
+      <value>0.1uF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">0402ZD104KAT2A</field>
+        <field name="Digi-Key">478-1129-1-ND</field>
+        <field name="Mouser">581-040210D104K</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5965D36B</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>SN74LVC1G17</value>
+      <footprint>SFUSat:SOT_23_5</footprint>
+      <fields>
+        <field name="Part Number">SN74LVC1G17DBVR</field>
+        <field name="Digi-Key">296-11933-1-ND</field>
+        <field name="Mouser">595-SN74LVC1G17DBVR</field>
+      </fields>
+      <libsource lib="SFUSat" part="SN74LVC1G17"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595F68D5</tstamp>
+    </comp>
+    <comp ref="C30">
+      <value>0.1uF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">0402ZD104KAT2A</field>
+        <field name="Digi-Key">478-1129-1-ND</field>
+        <field name="Mouser">581-040210D104K</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595FB8FF</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>DMN2075U</value>
+      <footprint>SFUSat:SOT23_DMN2075U</footprint>
+      <fields>
+        <field name="Part Number">DMN2075U-7</field>
+        <field name="Digi-Key">DMN2075U-7DICT-ND</field>
+        <field name="Mouser">621-DMN2075U-7</field>
+      </fields>
+      <libsource lib="SFUSat" part="DMN2075U"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595FB7B2</tstamp>
+    </comp>
+    <comp ref="J12">
+      <value>TEST_1P</value>
+      <footprint>SFUSat:Measurement_Point_Round-SMD-Pad_Big</footprint>
+      <libsource lib="conn" part="TEST_1P"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595F37C1</tstamp>
+    </comp>
+    <comp ref="J16">
+      <value>TEST_1P</value>
+      <footprint>SFUSat:Measurement_Point_Round-SMD-Pad_Big</footprint>
+      <libsource lib="conn" part="TEST_1P"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59650D13</tstamp>
+    </comp>
+    <comp ref="J18">
+      <value>TEST_1P</value>
+      <footprint>SFUSat:Measurement_Point_Round-SMD-Pad_Big</footprint>
+      <libsource lib="conn" part="TEST_1P"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59659297</tstamp>
+    </comp>
+    <comp ref="C42">
+      <value>10pF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GJM1555C1H100FB01D</field>
+        <field name="Digi-Key">490-11189-1-ND</field>
+        <field name="Mouser">81-GJM1555C1H100FB01</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>596E65B4</tstamp>
+    </comp>
+    <comp ref="C40">
+      <value>8pF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GJM1555C1H8R0BB01D</field>
+        <field name="Digi-Key">490-11238-1-ND</field>
+        <field name="Mouser">81-GJM1555C1H8R0BB1D</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>596E72B8</tstamp>
+    </comp>
+    <comp ref="L9">
+      <value>24nH</value>
+      <footprint>SFUSat:L_0603</footprint>
+      <fields>
+        <field name="Part Number">LQW18AN24NG8ZD</field>
+        <field name="Digi-Key">490-15662-1-ND</field>
+        <field name="Mouser">81-LQW18AN24NG8ZD</field>
+      </fields>
+      <libsource lib="device" part="L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>596E99A9</tstamp>
+    </comp>
+    <comp ref="L7">
+      <value>8.7nH</value>
+      <footprint>SFUSat:L_0603</footprint>
+      <fields>
+        <field name="Part Number">LQW18AN8N7G8ZD</field>
+        <field name="Digi-Key">490-15755-1-ND</field>
+        <field name="Mouser">81-LQW18AN8N7G8ZD</field>
+      </fields>
+      <libsource lib="device" part="L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>596EA475</tstamp>
+    </comp>
+    <comp ref="L11">
+      <value>22nH</value>
+      <footprint>SFUSat:L_0603</footprint>
+      <fields>
+        <field name="Part Number">LQW18AN22NG8ZD</field>
+        <field name="Digi-Key">490-15658-1-ND</field>
+        <field name="Mouser">81-LQW18AN22NG8ZD</field>
+      </fields>
+      <libsource lib="device" part="L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>596EB12E</tstamp>
+    </comp>
+    <comp ref="C39">
+      <value>8.2pF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GJM1555C1H8R2BB01D</field>
+        <field name="Digi-Key">490-11240-1-ND</field>
+        <field name="Mouser">81-GJM1555C1H8R2BB1D</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>596F2BF4</tstamp>
+    </comp>
+    <comp ref="C41">
+      <value>3pF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GJM1555C1H3R0BB01D</field>
+        <field name="Digi-Key">490-8095-1-ND</field>
+        <field name="Mouser">81-GJM1555C1H3R0BB01</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>596F8F34</tstamp>
+    </comp>
+    <comp ref="C43">
+      <value>3.3pF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GJM1555C1H3R3BB01D</field>
+        <field name="Digi-Key">490-8097-1-ND</field>
+        <field name="Mouser">81-GJM1555C1H3R3BB01</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>596F90E1</tstamp>
+    </comp>
+    <comp ref="L8">
+      <value>9.5nH</value>
+      <footprint>SFUSat:L_0603</footprint>
+      <fields>
+        <field name="Part Number">LQW18AN9N5G8ZD</field>
+        <field name="Digi-Key">490-15763-1-ND</field>
+        <field name="Mouser">81-LQW18AN9N5G8ZD</field>
+      </fields>
+      <libsource lib="device" part="L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>596FA591</tstamp>
+    </comp>
+    <comp ref="L10">
+      <value>7.5nH</value>
+      <footprint>SFUSat:L_0603</footprint>
+      <fields>
+        <field name="Part Number">LQW18AN7N5G8ZD</field>
+        <field name="Digi-Key">490-15745-1-ND</field>
+        <field name="Mouser">81-LQW18AN7N5G8ZD</field>
+      </fields>
+      <libsource lib="device" part="L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5970B9D7</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>22nH</value>
+      <footprint>SFUSat:L_0402</footprint>
+      <fields>
+        <field name="Part Number">0402CS-22NXGLW</field>
+        <field name="Digi-Key">N/A</field>
+        <field name="Mouser">994-0402CS-22NXGLW</field>
+      </fields>
+      <libsource lib="device" part="L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5970EC9C</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>56pF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GRM1555C1H560JA01D</field>
+        <field name="Digi-Key">490-1288-1-ND</field>
+        <field name="Mouser">81-GRM1555C1H560JA1D</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>595B5B6B</tstamp>
+    </comp>
+    <comp ref="J13">
+      <value>SMA</value>
+      <footprint>SFUSat:SMA-Vert-TH</footprint>
+      <fields>
+        <field name="Part Number">5-1814832-1</field>
+        <field name="Digi-Key">A97594-ND</field>
+        <field name="Mouser">571-5-1814832-1</field>
+      </fields>
+      <libsource lib="SFUSat" part="SMA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>596F379F</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>SMA</value>
+      <footprint>SFUSat:SMA-Vert-TH</footprint>
+      <fields>
+        <field name="Part Number">5-1814832-1</field>
+        <field name="Digi-Key">A97594-ND</field>
+        <field name="Mouser">571-5-1814832-1</field>
+      </fields>
+      <libsource lib="SFUSat" part="SMA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>596F5F17</tstamp>
+    </comp>
+    <comp ref="J22">
+      <value>SMA</value>
+      <footprint>SFUSat:SMA-Vert-TH</footprint>
+      <fields>
+        <field name="Part Number">5-1814832-1</field>
+        <field name="Digi-Key">A97594-ND</field>
+        <field name="Mouser">571-5-1814832-1</field>
+      </fields>
+      <libsource lib="SFUSat" part="SMA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>596F7A90</tstamp>
+    </comp>
+    <comp ref="J20">
+      <value>SMA</value>
+      <footprint>SFUSat:SMA-Vert-TH</footprint>
+      <fields>
+        <field name="Part Number">5-1814832-1</field>
+        <field name="Digi-Key">A97594-ND</field>
+        <field name="Mouser">571-5-1814832-1</field>
+      </fields>
+      <libsource lib="SFUSat" part="SMA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>596FA513</tstamp>
+    </comp>
+    <comp ref="J21">
+      <value>SMA</value>
+      <footprint>SFUSat:SMA-Vert-TH</footprint>
+      <fields>
+        <field name="Part Number">5-1814832-1</field>
+        <field name="Digi-Key">A97594-ND</field>
+        <field name="Mouser">571-5-1814832-1</field>
+      </fields>
+      <libsource lib="SFUSat" part="SMA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>596FB9A3</tstamp>
+    </comp>
+    <comp ref="C38">
+      <value>0.1uF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">0402ZD104KAT2A</field>
+        <field name="Digi-Key">478-1129-1-ND</field>
+        <field name="Mouser">581-040210D104K</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59729394</tstamp>
+    </comp>
+    <comp ref="L12">
+      <value>0R0</value>
+      <footprint>SFUSat:L_0603</footprint>
+      <fields>
+        <field name="Part Number">RMC1/16JPTP</field>
+        <field name="Digi-Key">N/A</field>
+        <field name="Mouser">791-RMC1/16JPTP</field>
+      </fields>
+      <libsource lib="device" part="L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>597582F1</tstamp>
+    </comp>
+    <comp ref="C44">
+      <value>10uF</value>
+      <footprint>SFUSat:CP_Tantalum_Case-C_EIA-2312-28_Reflow</footprint>
+      <fields>
+        <field name="Part Number">TAJC106M025R</field>
+        <field name="Digi-Key">478-3896-1-ND</field>
+        <field name="Mouser">581-TAJC106M025R</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5977DF36</tstamp>
+    </comp>
+    <comp ref="L13">
+      <value>0R0</value>
+      <footprint>SFUSat:L_0603</footprint>
+      <fields>
+        <field name="Part Number">RMC1/16JPTP</field>
+        <field name="Digi-Key">N/A</field>
+        <field name="Mouser">791-RMC1/16JPTP</field>
+      </fields>
+      <libsource lib="device" part="L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>597988B1</tstamp>
+    </comp>
+    <comp ref="L14">
+      <value>0R0</value>
+      <footprint>SFUSat:L_0603</footprint>
+      <fields>
+        <field name="Part Number">RMC1/16JPTP</field>
+        <field name="Digi-Key">N/A</field>
+        <field name="Mouser">791-RMC1/16JPTP</field>
+      </fields>
+      <libsource lib="device" part="L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59798A21</tstamp>
+    </comp>
+    <comp ref="C27">
+      <value>10pF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GJM1555C1H100JB01D</field>
+        <field name="Digi-Key">490-3113-1-ND</field>
+        <field name="Mouser">81-GJM1555C1H100JB01</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5979C44D</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>100pF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GRM1555C1H101JA01D</field>
+        <field name="Digi-Key">490-5922-1-ND</field>
+        <field name="Mouser">81-GRM1555C1H101JA1D</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5979DEDD</tstamp>
+    </comp>
+    <comp ref="C29">
+      <value>100pF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GRM1555C1H101JA01D</field>
+        <field name="Digi-Key">490-5922-1-ND</field>
+        <field name="Mouser">81-GRM1555C1H101JA1D</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>597A7A2B</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>22pF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GRM1555C1H220JZ01E</field>
+        <field name="Digi-Key">490-11382-1-ND</field>
+        <field name="Mouser">81-GRM1555C1H220JA1J</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>597AEA7F</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>2.2uF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">JMK105BJ225MVHF</field>
+        <field name="Digi-Key">587-3710-1-ND</field>
+        <field name="Mouser">963-JMK105BJ225MVHF</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>597B0256</tstamp>
+    </comp>
+    <comp ref="C26">
+      <value>2.2uF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">JMK105BJ225MVHF</field>
+        <field name="Digi-Key">587-3710-1-ND</field>
+        <field name="Mouser">963-JMK105BJ225MVHF</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>597B2DA0</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>1uF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GRM155R61A105KE15D</field>
+        <field name="Digi-Key">490-12701-1-ND</field>
+        <field name="Mouser">81-GRM155R61A105KE1D</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>597B578F</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>1uF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GRM155R61A105KE15D</field>
+        <field name="Digi-Key">490-12701-1-ND</field>
+        <field name="Mouser">81-GRM155R61A105KE1D</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>597B5CB1</tstamp>
+    </comp>
+    <comp ref="L2">
+      <value>8.2nH</value>
+      <footprint>SFUSat:L_0402</footprint>
+      <fields>
+        <field name="Part Number">0402CS-8N2XJLW</field>
+        <field name="Digi-Key">N/A</field>
+        <field name="Mouser">994-0402CS-8N2XJLW</field>
+      </fields>
+      <libsource lib="device" part="L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>597BC2D3</tstamp>
+    </comp>
+    <comp ref="L5">
+      <value>12.55nH</value>
+      <footprint>SFUSat:L_0402</footprint>
+      <fields>
+        <field name="Part Number">1606-10J</field>
+        <field name="Digi-Key">N/A</field>
+        <field name="Mouser">994-1606-6JLC</field>
+      </fields>
+      <libsource lib="device" part="L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>597C158E</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>220R</value>
+      <footprint>SFUSat:R_0402</footprint>
+      <fields>
+        <field name="Part Number">RMC1/16S-221JTH</field>
+        <field name="Digi-Key">N/A</field>
+        <field name="Mouser">791-RMC1/16S-221JTH</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>597C7AD0</tstamp>
+    </comp>
+    <comp ref="C23">
+      <value>10uF</value>
+      <footprint>SFUSat:CP_Tantalum_Case-B_EIA-1411-21_Reflow</footprint>
+      <fields>
+        <field name="Part Number">TAJB106K016R</field>
+        <field name="Digi-Key">478-1673-1-ND</field>
+        <field name="Mouser">581-TAJB106K016</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>597CD6BD</tstamp>
+    </comp>
+    <comp ref="J14">
+      <value>CONN_01X02</value>
+      <footprint>SFUSat:2x01In_Header_v2</footprint>
+      <fields>
+        <field name="Part Number">PRPC002SAAN-RC</field>
+        <field name="Digi-Key">S1011EC-02-ND</field>
+        <field name="Mouser">N/A</field>
+      </fields>
+      <libsource lib="conn" part="CONN_01X02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>597ECE6B</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>CONN_01X03</value>
+      <footprint>SFUSat:Socket_Strip_Straight_1x03</footprint>
+      <fields>
+        <field name="Part Number">PRPC003SAAN-RC</field>
+        <field name="Digi-Key">S1011EC-03-ND</field>
+        <field name="Mouser">N/A</field>
+      </fields>
+      <libsource lib="conn" part="CONN_01X03"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>597FEF6B</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>390R</value>
+      <footprint>SFUSat:R_0402</footprint>
+      <fields>
+        <field name="Part Number">RMC1/16S-391JTH</field>
+        <field name="Digi-Key">N/A</field>
+        <field name="Mouser">791-RMC1/16S-391JTH</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59803F68</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>1uF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GRM155R61A105KE15D</field>
+        <field name="Digi-Key">490-12701-1-ND</field>
+        <field name="Mouser">81-GRM155R61A105KE1D</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5980A9C9</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>1uF</value>
+      <footprint>SFUSat:C_0402</footprint>
+      <fields>
+        <field name="Part Number">GRM155R61A105KE15D</field>
+        <field name="Digi-Key">490-12701-1-ND</field>
+        <field name="Mouser">81-GRM155R61A105KE1D</field>
+      </fields>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5980F42E</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="device" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_01X02">
+      <description>Connector, single row, 01x02</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X02</fp>
+        <fp>Pin_Header_Angled_1X02</fp>
+        <fp>Socket_Strip_Straight_1X02</fp>
+        <fp>Socket_Strip_Angled_1X02</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_01X03">
+      <description>Connector, single row, 01x03</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X03</fp>
+        <fp>Pin_Header_Angled_1X03</fp>
+        <fp>Socket_Strip_Straight_1X03</fp>
+        <fp>Socket_Strip_Angled_1X03</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X03</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SFUSat" part="DMN2075U">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">DMN2075U</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D" type="input"/>
+        <pin num="2" name="G" type="input"/>
+        <pin num="3" name="S" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="L">
+      <description>Inductor</description>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SFUSat" part="LTC2644">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LTC2644</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="VOUTA" type="output"/>
+        <pin num="3" name="VOUTB" type="output"/>
+        <pin num="4" name="IDLSEL" type="input"/>
+        <pin num="5" name="IOVCC" type="input"/>
+        <pin num="6" name="GND" type="power_out"/>
+        <pin num="7" name="~PD" type="input"/>
+        <pin num="8" name="INB" type="input"/>
+        <pin num="9" name="INA" type="input"/>
+        <pin num="10" name="REF" type="BiDi"/>
+        <pin num="11" name="REFSEL" type="input"/>
+        <pin num="12" name="GND" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="SFUSat" part="MML09211H">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MML09211H</field>
+      </fields>
+      <pins>
+        <pin num="1" name="RF_IN" type="input"/>
+        <pin num="2" name="RF_IN" type="input"/>
+        <pin num="3" name="RF_MATCH" type="input"/>
+        <pin num="4" name="V_BIAS" type="input"/>
+        <pin num="5" name="FB" type="input"/>
+        <pin num="6" name="RF_OUT" type="output"/>
+        <pin num="7" name="RF_OUT" type="output"/>
+        <pin num="8" name="NC" type="NotConnected"/>
+        <pin num="9" name="GND" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="linear" part="OP275">
+      <aliases>
+        <alias>ADA4075</alias>
+        <alias>MCP6002</alias>
+        <alias>LM7332</alias>
+      </aliases>
+      <description>Dual Op amp (low power)</description>
+      <docs>analog-dev/op275.pdf</docs>
+      <footprints>
+        <fp>DIP*</fp>
+        <fp>SOIC*</fp>
+        <fp>SOP*</fp>
+        <fp>LFCSP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">OP275</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="~" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="SFUSat" part="PESD5Zx">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">PESD5Zx</field>
+      </fields>
+      <pins>
+        <pin num="1" name="c" type="input"/>
+        <pin num="2" name="a" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="POT">
+      <description>Potentionmeter</description>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">POT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SFUSat" part="RF6886">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RF6886</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="VCC" type="power_in"/>
+        <pin num="3" name="VCC" type="power_in"/>
+        <pin num="4" name="NC" type="NotConnected"/>
+        <pin num="5" name="Vreg2" type="power_in"/>
+        <pin num="6" name="RFin" type="input"/>
+        <pin num="7" name="NC" type="NotConnected"/>
+        <pin num="8" name="NC" type="NotConnected"/>
+        <pin num="9" name="NC" type="NotConnected"/>
+        <pin num="10" name="NC" type="NotConnected"/>
+        <pin num="11" name="NC" type="NotConnected"/>
+        <pin num="12" name="NC" type="NotConnected"/>
+        <pin num="13" name="RFout" type="output"/>
+        <pin num="14" name="RFout" type="output"/>
+        <pin num="15" name="RFout" type="output"/>
+        <pin num="16" name="RFout" type="output"/>
+        <pin num="17" name="RFout" type="output"/>
+        <pin num="18" name="RFout" type="output"/>
+        <pin num="19" name="Vreg1" type="power_in"/>
+        <pin num="20" name="NC" type="NotConnected"/>
+        <pin num="21" name="NC" type="NotConnected"/>
+        <pin num="22" name="Vbias" type="power_in"/>
+        <pin num="23" name="PwrSense" type="openCol"/>
+        <pin num="24" name="PwrRef" type="openCol"/>
+        <pin num="CP" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SFUSat" part="RT9183">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RT9183</field>
+      </fields>
+      <pins>
+        <pin num="1" name="EN" type="input"/>
+        <pin num="2" name="VIN" type="power_in"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="VOUT" type="power_out"/>
+        <pin num="5" name="ADJ" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="SFUSat" part="SMA">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SMA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="INNER" type="passive"/>
+        <pin num="2" name="OUTER" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SFUSat" part="SN74LVC1G17">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SN74LVC1G17</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="NotConnected"/>
+        <pin num="2" name="A" type="input"/>
+        <pin num="3" name="GND" type="power_out"/>
+        <pin num="4" name="Y" type="output"/>
+        <pin num="5" name="VCC" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="TEST_1P">
+      <description>point</description>
+      <fields>
+        <field name="Reference">W</field>
+        <field name="Value">TEST_1P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SFUSat" part="TLV702">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TLV702</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="input"/>
+        <pin num="2" name="GND" type="power_out"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="NC" type="NotConnected"/>
+        <pin num="5" name="OUT" type="output"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="device">
+      <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>C:\Program Files\KiCad\share\kicad\library\conn.lib</uri>
+    </library>
+    <library logical="linear">
+      <uri>C:\Program Files\KiCad\share\kicad\library\linear.lib</uri>
+    </library>
+    <library logical="SFUSat">
+      <uri>KiCad-Lib\SFUSat.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(C14-Pad1)">
+      <node ref="C14" pin="1"/>
+      <node ref="R7" pin="2"/>
+      <node ref="U3" pin="2"/>
+    </net>
+    <net code="2" name="Net-(R11-Pad1)">
+      <node ref="R11" pin="1"/>
+      <node ref="R13" pin="2"/>
+      <node ref="U3" pin="5"/>
+    </net>
+    <net code="3" name="Net-(R10-Pad1)">
+      <node ref="R12" pin="2"/>
+      <node ref="U3" pin="6"/>
+      <node ref="R10" pin="1"/>
+    </net>
+    <net code="4" name="/LNA_5V0">
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="5" name="Net-(C3-Pad2)">
+      <node ref="J2" pin="1"/>
+      <node ref="C3" pin="2"/>
+    </net>
+    <net code="6" name="/G_DAC">
+      <node ref="J5" pin="1"/>
+    </net>
+    <net code="7" name="/G_MAN">
+      <node ref="J5" pin="3"/>
+    </net>
+    <net code="8" name="Net-(J5-Pad2)">
+      <node ref="J5" pin="2"/>
+      <node ref="U3" pin="3"/>
+    </net>
+    <net code="9" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1"/>
+      <node ref="U2" pin="5"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="10" name="/VREG">
+      <node ref="R1" pin="2"/>
+      <node ref="C2" pin="1"/>
+      <node ref="C1" pin="1"/>
+    </net>
+    <net code="11" name="Net-(J7-Pad3)">
+      <node ref="J7" pin="3"/>
+      <node ref="R10" pin="2"/>
+    </net>
+    <net code="12" name="/PWR_SENSE">
+      <node ref="R3" pin="1"/>
+      <node ref="U2" pin="23"/>
+      <node ref="C12" pin="1"/>
+    </net>
+    <net code="13" name="/PWR_REF">
+      <node ref="C13" pin="1"/>
+      <node ref="R4" pin="1"/>
+      <node ref="U2" pin="24"/>
+    </net>
+    <net code="14" name="/3V1">
+      <node ref="U6" pin="10"/>
+      <node ref="C37" pin="1"/>
+      <node ref="U6" pin="11"/>
+      <node ref="C38" pin="1"/>
+      <node ref="U6" pin="4"/>
+      <node ref="U6" pin="1"/>
+    </net>
+    <net code="15" name="Net-(R14-Pad2)">
+      <node ref="R14" pin="2"/>
+      <node ref="U5" pin="3"/>
+    </net>
+    <net code="16" name="/3.1V">
+      <node ref="RV1" pin="2"/>
+    </net>
+    <net code="17" name="Net-(R16-Pad2)">
+      <node ref="R16" pin="2"/>
+      <node ref="U7" pin="5"/>
+      <node ref="R17" pin="1"/>
+    </net>
+    <net code="18" name="Net-(R15-Pad2)">
+      <node ref="U7" pin="1"/>
+      <node ref="R15" pin="2"/>
+    </net>
+    <net code="19" name="/PWR_SENSE">
+      <node ref="J8" pin="1"/>
+      <node ref="R12" pin="1"/>
+    </net>
+    <net code="20" name="/PWR_REF">
+      <node ref="J9" pin="1"/>
+      <node ref="R13" pin="1"/>
+    </net>
+    <net code="21" name="Net-(J6-Pad1)">
+      <node ref="J7" pin="2"/>
+      <node ref="J6" pin="1"/>
+      <node ref="U3" pin="7"/>
+      <node ref="R7" pin="1"/>
+    </net>
+    <net code="22" name="Net-(C26-Pad1)">
+      <node ref="L13" pin="2"/>
+      <node ref="L14" pin="2"/>
+      <node ref="L12" pin="2"/>
+      <node ref="C26" pin="1"/>
+      <node ref="L5" pin="1"/>
+    </net>
+    <net code="23" name="/3V6">
+      <node ref="L13" pin="1"/>
+      <node ref="L14" pin="1"/>
+      <node ref="L12" pin="1"/>
+    </net>
+    <net code="24" name="/3V6">
+      <node ref="R3" pin="2"/>
+      <node ref="C44" pin="1"/>
+      <node ref="R4" pin="2"/>
+      <node ref="U2" pin="3"/>
+      <node ref="U2" pin="2"/>
+      <node ref="U2" pin="1"/>
+      <node ref="C8" pin="1"/>
+    </net>
+    <net code="25" name="GND">
+      <node ref="C30" pin="2"/>
+      <node ref="C35" pin="2"/>
+      <node ref="L8" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C12" pin="2"/>
+      <node ref="J20" pin="2"/>
+      <node ref="J21" pin="2"/>
+      <node ref="C33" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="Q1" pin="1"/>
+      <node ref="U3" pin="4"/>
+      <node ref="C38" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="C18" pin="2"/>
+      <node ref="J2" pin="2"/>
+      <node ref="J13" pin="2"/>
+      <node ref="C21" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="U1" pin="9"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C28" pin="2"/>
+      <node ref="C24" pin="2"/>
+      <node ref="C22" pin="2"/>
+      <node ref="C20" pin="2"/>
+      <node ref="J22" pin="2"/>
+      <node ref="J1" pin="2"/>
+      <node ref="U2" pin="CP"/>
+      <node ref="C7" pin="2"/>
+      <node ref="C11" pin="2"/>
+      <node ref="D4" pin="2"/>
+      <node ref="U7" pin="3"/>
+      <node ref="R11" pin="2"/>
+      <node ref="U4" pin="3"/>
+      <node ref="R2" pin="2"/>
+      <node ref="U5" pin="2"/>
+      <node ref="J10" pin="2"/>
+      <node ref="C42" pin="2"/>
+      <node ref="C40" pin="2"/>
+      <node ref="L10" pin="2"/>
+      <node ref="D1" pin="2"/>
+      <node ref="U6" pin="12"/>
+      <node ref="C37" pin="2"/>
+      <node ref="C44" pin="2"/>
+      <node ref="L2" pin="2"/>
+      <node ref="C15" pin="2"/>
+      <node ref="J14" pin="1"/>
+      <node ref="R17" pin="2"/>
+      <node ref="C34" pin="2"/>
+      <node ref="C32" pin="2"/>
+      <node ref="C36" pin="2"/>
+      <node ref="D3" pin="2"/>
+      <node ref="U6" pin="6"/>
+      <node ref="U6" pin="8"/>
+      <node ref="D2" pin="2"/>
+      <node ref="C31" pin="2"/>
+      <node ref="C27" pin="2"/>
+      <node ref="C23" pin="2"/>
+      <node ref="C16" pin="2"/>
+      <node ref="C26" pin="2"/>
+      <node ref="C13" pin="2"/>
+      <node ref="J7" pin="1"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C19" pin="2"/>
+    </net>
+    <net code="26" name="Net-(C11-Pad1)">
+      <node ref="R5" pin="2"/>
+      <node ref="C11" pin="1"/>
+      <node ref="R6" pin="1"/>
+      <node ref="C21" pin="1"/>
+      <node ref="L4" pin="1"/>
+      <node ref="C18" pin="1"/>
+      <node ref="C7" pin="1"/>
+    </net>
+    <net code="27" name="Net-(C17-Pad1)">
+      <node ref="C17" pin="1"/>
+      <node ref="R9" pin="2"/>
+    </net>
+    <net code="28" name="Net-(C17-Pad2)">
+      <node ref="U1" pin="5"/>
+      <node ref="C17" pin="2"/>
+    </net>
+    <net code="29" name="Net-(C39-Pad2)">
+      <node ref="C39" pin="2"/>
+      <node ref="J21" pin="1"/>
+    </net>
+    <net code="30" name="Net-(C43-Pad1)">
+      <node ref="L11" pin="1"/>
+      <node ref="J22" pin="1"/>
+      <node ref="C43" pin="1"/>
+    </net>
+    <net code="31" name="/3V6">
+      <node ref="C15" pin="1"/>
+      <node ref="U2" pin="22"/>
+    </net>
+    <net code="32" name="Net-(C29-Pad1)">
+      <node ref="J13" pin="1"/>
+      <node ref="C29" pin="1"/>
+    </net>
+    <net code="33" name="Net-(C9-Pad1)">
+      <node ref="U2" pin="6"/>
+      <node ref="C9" pin="1"/>
+    </net>
+    <net code="34" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1"/>
+      <node ref="C9" pin="2"/>
+      <node ref="L2" pin="1"/>
+    </net>
+    <net code="35" name="Net-(C27-Pad1)">
+      <node ref="C28" pin="1"/>
+      <node ref="C27" pin="1"/>
+      <node ref="C29" pin="2"/>
+      <node ref="L6" pin="1"/>
+    </net>
+    <net code="36" name="Net-(C16-Pad1)">
+      <node ref="C16" pin="1"/>
+      <node ref="R8" pin="2"/>
+      <node ref="U2" pin="19"/>
+    </net>
+    <net code="37" name="/VREG">
+      <node ref="C23" pin="1"/>
+      <node ref="R8" pin="1"/>
+      <node ref="C19" pin="1"/>
+    </net>
+    <net code="38" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2"/>
+      <node ref="J1" pin="1"/>
+    </net>
+    <net code="39" name="Net-(C10-Pad1)">
+      <node ref="L1" pin="2"/>
+      <node ref="U1" pin="3"/>
+      <node ref="C10" pin="1"/>
+      <node ref="C6" pin="1"/>
+    </net>
+    <net code="40" name="Net-(L3-Pad1)">
+      <node ref="L3" pin="1"/>
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="41" name="Net-(C25-Pad1)">
+      <node ref="J10" pin="1"/>
+      <node ref="C25" pin="1"/>
+    </net>
+    <net code="42" name="Net-(C25-Pad2)">
+      <node ref="U1" pin="7"/>
+      <node ref="U1" pin="6"/>
+      <node ref="L4" pin="2"/>
+      <node ref="R9" pin="1"/>
+      <node ref="C25" pin="2"/>
+    </net>
+    <net code="43" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2"/>
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="44" name="Net-(J11-Pad1)">
+      <node ref="J11" pin="1"/>
+      <node ref="Q1" pin="3"/>
+    </net>
+    <net code="45" name="Net-(C20-Pad1)">
+      <node ref="U2" pin="15"/>
+      <node ref="U2" pin="16"/>
+      <node ref="L6" pin="2"/>
+      <node ref="U2" pin="17"/>
+      <node ref="C22" pin="1"/>
+      <node ref="U2" pin="18"/>
+      <node ref="C20" pin="1"/>
+      <node ref="C24" pin="1"/>
+      <node ref="L5" pin="2"/>
+      <node ref="U2" pin="14"/>
+      <node ref="U2" pin="13"/>
+    </net>
+    <net code="46" name="Net-(C4-Pad1)">
+      <node ref="L3" pin="2"/>
+      <node ref="C4" pin="1"/>
+      <node ref="L1" pin="1"/>
+    </net>
+    <net code="47" name="/3.1V">
+      <node ref="U3" pin="8"/>
+    </net>
+    <net code="48" name="Net-(RV1-Pad1)">
+      <node ref="RV1" pin="1"/>
+    </net>
+    <net code="49" name="/VREG">
+      <node ref="C14" pin="2"/>
+      <node ref="U3" pin="1"/>
+      <node ref="J4" pin="1"/>
+    </net>
+    <net code="50" name="Net-(U1-Pad2)">
+      <node ref="U1" pin="2"/>
+    </net>
+    <net code="51" name="Net-(U1-Pad8)">
+      <node ref="U1" pin="8"/>
+    </net>
+    <net code="52" name="Net-(U2-Pad12)">
+      <node ref="U2" pin="12"/>
+    </net>
+    <net code="53" name="Net-(U2-Pad21)">
+      <node ref="U2" pin="21"/>
+    </net>
+    <net code="54" name="Net-(U2-Pad4)">
+      <node ref="U2" pin="4"/>
+    </net>
+    <net code="55" name="Net-(U2-Pad7)">
+      <node ref="U2" pin="7"/>
+    </net>
+    <net code="56" name="Net-(U2-Pad8)">
+      <node ref="U2" pin="8"/>
+    </net>
+    <net code="57" name="Net-(U2-Pad9)">
+      <node ref="U2" pin="9"/>
+    </net>
+    <net code="58" name="Net-(U2-Pad10)">
+      <node ref="U2" pin="10"/>
+    </net>
+    <net code="59" name="Net-(U2-Pad20)">
+      <node ref="U2" pin="20"/>
+    </net>
+    <net code="60" name="Net-(U2-Pad11)">
+      <node ref="U2" pin="11"/>
+    </net>
+    <net code="61" name="Net-(C42-Pad1)">
+      <node ref="C42" pin="1"/>
+      <node ref="L9" pin="1"/>
+      <node ref="L11" pin="2"/>
+    </net>
+    <net code="62" name="Net-(C40-Pad1)">
+      <node ref="L9" pin="2"/>
+      <node ref="L7" pin="1"/>
+      <node ref="C40" pin="1"/>
+    </net>
+    <net code="63" name="Net-(C39-Pad1)">
+      <node ref="C39" pin="1"/>
+      <node ref="C41" pin="2"/>
+      <node ref="L8" pin="1"/>
+    </net>
+    <net code="64" name="Net-(U4-Pad1)">
+      <node ref="U4" pin="1"/>
+    </net>
+    <net code="65" name="/MCU_PWM">
+      <node ref="U4" pin="2"/>
+    </net>
+    <net code="66" name="/LNA_5V0">
+      <node ref="Q1" pin="2"/>
+      <node ref="J12" pin="1"/>
+      <node ref="J11" pin="2"/>
+    </net>
+    <net code="67" name="Net-(J20-Pad1)">
+      <node ref="L7" pin="2"/>
+      <node ref="J20" pin="1"/>
+    </net>
+    <net code="68" name="/G_DAC">
+      <node ref="J18" pin="1"/>
+      <node ref="U6" pin="2"/>
+    </net>
+    <net code="69" name="Net-(C41-Pad1)">
+      <node ref="C43" pin="2"/>
+      <node ref="C41" pin="1"/>
+      <node ref="L10" pin="1"/>
+    </net>
+    <net code="70" name="/G_MAN">
+      <node ref="R2" pin="1"/>
+      <node ref="RV1" pin="3"/>
+      <node ref="D1" pin="1"/>
+      <node ref="J3" pin="1"/>
+    </net>
+    <net code="71" name="Net-(U5-Pad4)">
+      <node ref="U5" pin="4"/>
+    </net>
+    <net code="72" name="/3V6">
+      <node ref="U5" pin="1"/>
+      <node ref="C32" pin="1"/>
+    </net>
+    <net code="73" name="Net-(C33-Pad1)">
+      <node ref="U7" pin="2"/>
+      <node ref="C33" pin="1"/>
+      <node ref="C34" pin="1"/>
+      <node ref="J14" pin="2"/>
+      <node ref="R15" pin="1"/>
+    </net>
+    <net code="74" name="/3V6">
+      <node ref="U7" pin="4"/>
+      <node ref="J17" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="R16" pin="1"/>
+      <node ref="C36" pin="1"/>
+    </net>
+    <net code="75" name="Net-(U6-Pad3)">
+      <node ref="U6" pin="3"/>
+    </net>
+    <net code="76" name="Net-(D2-Pad1)">
+      <node ref="U6" pin="9"/>
+      <node ref="D2" pin="1"/>
+      <node ref="U4" pin="4"/>
+    </net>
+    <net code="77" name="/3V6">
+      <node ref="U6" pin="7"/>
+      <node ref="C30" pin="1"/>
+      <node ref="U6" pin="5"/>
+      <node ref="U4" pin="5"/>
+      <node ref="C31" pin="1"/>
+    </net>
+    <net code="78" name="/3V6">
+      <node ref="R14" pin="1"/>
+    </net>
+    <net code="79" name="/3V1">
+      <node ref="J16" pin="1"/>
+      <node ref="U5" pin="5"/>
+      <node ref="D3" pin="1"/>
+      <node ref="C35" pin="1"/>
+    </net>
+  </nets>
+</export>
